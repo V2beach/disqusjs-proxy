@@ -4,8 +4,7 @@
     "alias": [
         "disqus.v2beach.cn"
     ],
-    "routes": [
-        {
+    "routes": [{
             "src": "/(.*)",
             "dest": "https://disqus.com/api/$1"
         }
