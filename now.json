@@ -2,7 +2,7 @@
     "version": 2,
     "name": "disqusjs-proxy",
     "alias": [
-        "disqusjs.v2beach.cn"
+        "disqus.v2beach.cn"
     ],
     "routes": [
         {
